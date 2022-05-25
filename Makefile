@@ -1,0 +1,3 @@
+all: Python/main.py
+	@echo Running Python Guessing Game...
+	@python Python/main.py
