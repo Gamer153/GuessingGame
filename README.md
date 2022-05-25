@@ -11,7 +11,7 @@ Features it would be nice to have:
 - saving highscores to a server
 
 Programming languages I want to use:
-- [ ] Python
+- [x] Python
 - [ ] Java
 - [ ] Kotlin
 - [ ] JavaScript with Node.js / in the browser
