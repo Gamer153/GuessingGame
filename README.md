@@ -12,7 +12,7 @@ Features it would be nice to have:
 
 Programming languages I want to use:
 - [x] Python
-- [ ] Java
+- [x] Java
 - [ ] Kotlin
 - [ ] JavaScript with Node.js / in the browser
 - [ ] C++
