@@ -19,4 +19,4 @@ Programming languages I want to use:
 - [ ] C#
 - [ ] Go
 - [ ] PHP
-- [ ] Lua
+- [x] Lua
